@@ -8,3 +8,5 @@ and generate a wordlist for the user
 
 1. Python Flask {Back-end}
 2. Bootstrap , HTML , CSS {Front-End}
+
+{The source code is also available on the Bootstrap official website}
